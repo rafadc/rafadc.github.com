@@ -46,3 +46,32 @@ footer {
   font-size: 10px;
   border-top: solid black 1px;
 }
+
+.float-left {
+  float: left;
+  margin: 5px;
+}
+
+.rotated {
+  -moz-transform: rotate(-5deg);
+  -webkit-transform: rotate(-5deg);
+  -ms-transform: rotate(-5deg);
+  -o-transform: rotate(-5deg);
+  transform: rotate(-5deg);
+}
+
+.minigrow {
+  -webkit-transition: all .5s ease ; 
+  transition: all 1s ease ; 
+}
+
+.minigrow:hover {
+  -webkit-transform: rotate(-2deg) scale(1.03);
+  transform: rotate(-2deg) scale(1.03);
+}
+
+.cast-shadow {
+  -moz-box-shadow: 3px 3px 2px rgb(100, 100, 100);
+  -webkit-box-shadow: 3px 3px 2px rgb(100, 100, 100);
+  box-shadow: 3px 3px 2px rgb(100, 100, 100);
+}
