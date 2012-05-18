@@ -11,6 +11,16 @@ h1, h2, h3 {
   font-family: 'Open Sans Condensed', sans-serif; 
 }
 
+h1 {
+  line-height: 80px;
+  font-size: 72px;
+}
+
+h2 {
+  line-height: 35px;
+  font-size: 30px;
+}
+
 h2 > a {
   color: black;
 } 
