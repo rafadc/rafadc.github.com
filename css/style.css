@@ -11,4 +11,16 @@ h1, h2, h3 {
   font-family: 'Open Sans Condensed', sans-serif; 
 }
 
+h2 > a {
+  color: black;
+} 
 
+.navbar {
+  color: black;
+}
+
+.navbar-inner {
+  background-color: #E34D4D;
+  background-image: none;
+  text-align: center;
+}
