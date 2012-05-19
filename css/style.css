@@ -7,8 +7,18 @@ body, p {
   font-family: 'Open Sans', sans-serif;
 }
 
-body {
-  height: 100%;
+footer {
+  padding-bottom: 10px;
+  font-size: 10px;
+  margin: 50px auto 0px auto;
+  width:50%;
+  border-top: 1px solid lightgrey;
+  text-align: center;
+  opacity: 0.8;
+}
+
+#comments {
+  padding: 50px 0px 50px 0px;
 }
 
 h1, h2, h3 { 
@@ -39,19 +49,6 @@ h2 > a {
   text-align: center;
 }
 
-footer {
-  margin-top: 50px;
-  padding-bottom: 10px;
-  position: absolute;
-  display: block;
-  bottom: 0px;
-  width: 100%;
-  background-color: #9C9C9C;
-  color: white;
-  font-size: 10px;
-  border-top: solid black 1px;
-  clear: both;
-}
 
 .float-left {
   float: left;
