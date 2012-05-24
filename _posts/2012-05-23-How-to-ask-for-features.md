@@ -121,7 +121,7 @@ Also another patter for poorly written story is the following:
 
     To test it we will open the daily sales report and see if its nice.
 
-Ok. I promise I've seen something like this. Imagine you are responsible for doing this. I'd think
+Ok. I promise I've seen user stories like the one before. Imagine you are responsible for doing this. I'd think
 to myself "What the hell am I supposed to do?" Often we find these "diffuse" histories. Usually the
 problem is that we didn't dug deep enough into the problem:
 
