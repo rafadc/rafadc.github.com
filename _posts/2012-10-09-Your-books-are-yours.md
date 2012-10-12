@@ -6,7 +6,7 @@ title: Your books are your story
 
 I had a conversation with [@jacegu](https://twitter.com/jacegu) in Baruco about putting stickers in your laptop. As I always did he keeps his machines bright and shiny with no extra glue and plastic over it. 
 
-Once, the laptop I'm currently using fell to the ground and a dent appeared behind the screen. To hide it I bought a vinyl sticker from etsy and sicked it over the dent.
+Once, the laptop I'm currently using fell to the ground and a dent appeared behind the screen. To hide it I bought a vinyl sticker from Etsy and sticked it over the dent.
 
 Some time after I went to a code retreat and I ended up with two stickers: one from [coderetreat.org](http://coderetreat.org) and another one from  [dnssimple.com](https://dnsimple.com). Since there was already one sticker,  why not pasting another one? Both of them got there. Now, I've added some more  and probably more are yet to come. 
 
