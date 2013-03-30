@@ -1,15 +1,14 @@
 ---
 layout: default
 ---
-<section>
-  <header>
-    <h2>{{page.title}}</h2>
-  </header>
-  <article>
-    {{ content }}
-  </article>
-</section>
-
-<section id="comments">
-{% include disqus.html %}
-</section>
+<article>
+  <div class="span1">&nbsp;</div>
+  <div class="span10">
+    <header>
+      <h2>{{page.title}}</h2>
+    </header>
+    <section>{{ content }}</section>
+    <section>{% include disqus.html %}</section>
+  </div>
+  <div class="span1">&nbsp;</div>
+</article>
