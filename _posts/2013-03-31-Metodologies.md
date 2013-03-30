@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Metodologies, use them wisely.
+title: Metodologies, use them wisely
 ---
 
 ### The methodology trap
