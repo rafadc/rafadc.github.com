@@ -39,6 +39,11 @@ h2 > a {
   color: black;
 } 
 
+.post_text {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 .navbar {
   color: black;
 }
