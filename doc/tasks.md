@@ -7,6 +7,5 @@
 
 - Restyle main page
 - Favicon
-- Add tweet this button
 - Tweet when posting
 - Style Paging
