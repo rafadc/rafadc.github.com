@@ -6,6 +6,7 @@
 # TODO
 
 - Restyle main page
+- Add dates to post page
 - Favicon
-- Tweet when posting
 - Style Paging
+- Tweet when posting

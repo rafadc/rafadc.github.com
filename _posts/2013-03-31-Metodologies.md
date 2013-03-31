@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Metodologies, use them wisely
+cover: agile_process.jpg
+cover_attribution: http://www.flickr.com/photos/omarrr/8451118850/
 ---
 
 ### The methodology trap

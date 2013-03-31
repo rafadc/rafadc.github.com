@@ -3,6 +3,7 @@ layout: default
 ---
 <article>
     <header>
+      <img src="/images/covers/{{page.cover}}" alt="Cover">
       <h2>{{page.title}}</h2>
     </header>
     <section class="post_text">{{ content }}</section>
@@ -16,6 +17,7 @@ layout: default
       <div class="g-plusone" data-size="small" style="height:20px; vertical-align: middle !important;"></div>
     </section>
     <section>{% include disqus.html %}</section>
+    <section class="attributions">Cover photo: <a href="{{ page.cover_attribution }}">{{ page.cover_attribution }}</a></section>
 </article>
 <script type="text/javascript">
   window.___gcfg = {lang: 'en-GB'};
