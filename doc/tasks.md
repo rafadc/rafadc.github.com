@@ -5,8 +5,8 @@
 
 # TODO
 
-- Restyle main page
 - Add dates to post page
+- On hover main page post a description should appear
 - Favicon
 - Style Paging
 - Tweet when posting

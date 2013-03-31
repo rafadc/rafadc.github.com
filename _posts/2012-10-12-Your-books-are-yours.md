@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Your books are your story
+cover: book_pile.jpg
+cover_attribution: http://www.flickr.com/photos/ellenw/251895310/
 ---
 
 I had a conversation with [@jacegu](https://twitter.com/jacegu) in Baruco about putting stickers in your laptop. As I always did he keeps his machines bright and shiny with no extra glue and plastic over it. 

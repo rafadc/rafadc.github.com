@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Mendicant Reading club: Beautiful Visualization"
+cover: tag_cloud.jpg
+cover_attribution: http://www.flickr.com/photos/cramerspot/7171230810/
 ---
 
 I'll be driving a [book club session at mendicant university](http://forum.mendicantuniversity.org/discussion/21/reading-club-beautiful-visualization). 

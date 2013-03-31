@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hello world!
+cover: baby.jpg
+cover_attribution: http://www.flickr.com/photos/sergiu_bacioiu/4444496049/
 ---
 
 Hi guys. Back to writing again. It's been a long time since I write something but I'm back to 

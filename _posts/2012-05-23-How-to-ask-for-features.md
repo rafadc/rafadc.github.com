@@ -1,5 +1,8 @@
 ---
 layout: post
+title: How to ask for features
+cover: contract.jpg
+cover_attribution: http://www.flickr.com/photos/jsyk/2982312360/
 ---
 
 ### Requirements

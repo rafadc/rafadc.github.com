@@ -29,6 +29,19 @@ footer {
   float: left;
 }
 
+.post {
+  border-bottom: 5px solid red;
+  padding: 10px;
+}
+
+.posts .col1 { 
+  width: 250px;
+}
+
+.posts .col2 { 
+  width: 500px; 
+}
+
 #___plusone_0 {
   vertical-align: middle !important;
 }

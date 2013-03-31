@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Study joseki
+cover: trick_play.jpg
+cover_attribution: http://www.flickr.com/photos/liopic/164812391/
 ---
 
 There is something I like a lot about [Go](http://playgo.to/iwtg/en/)
