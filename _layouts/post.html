@@ -6,6 +6,9 @@ layout: default
       <h2>{{page.title}}</h2>
     </header>
     <section class="post_text">{{ content }}</section>
+    <section class="paging">
+      {% if page.previous.url %} <a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}"><i class="icon-chevron-left"></i></a>   {% endif %}   {% if page.next.url %}  <a href="{{page.next.url}}" title="Next Post: {{page.next.title}}"><i class="icon-chevron-right"></i></a>   {% endif %} </p>  
+    </section>
     <section class="social_links">
       <a href="http://news.ycombinator.com/submitlink?u=http://micubiculo.com{{ page.url }}&t={{ page.title }}"><img src="/images/yc500.gif" alt="Submit to Hacker News"></a>
       <a href="http://www.reddit.com/submit?url=http://micubiculo.com{{ page.url }}&title={{ page.title }}"><img src="http://www.reddit.com/static/spreddit1.gif" alt="Submit to Reddit"></a>

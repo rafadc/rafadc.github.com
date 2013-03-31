@@ -1,6 +1,7 @@
 # Ideas for posts
 
 - Talk about MU closing
+- Post about the BDD talk
 
 # TODO
 
@@ -8,3 +9,4 @@
 - Favicon
 - Add tweet this button
 - Tweet when posting
+- Style Paging
