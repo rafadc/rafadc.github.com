@@ -33,6 +33,10 @@ footer {
   vertical-align: middle !important;
 }
 
+.twitter-share-button {
+  vertical-align: middle !important;
+}
+
 h1, h2, h3 { 
   font-family: 'Open Sans Condensed', sans-serif; 
 }
