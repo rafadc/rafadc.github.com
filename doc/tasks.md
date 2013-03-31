@@ -4,5 +4,7 @@
 
 # TODO
 
-- Submit to Y Combinator
+- Restyle main page
+- Favicon
+- Add tweet this button
 - Tweet when posting

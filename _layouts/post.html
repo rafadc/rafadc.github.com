@@ -6,5 +6,21 @@ layout: default
       <h2>{{page.title}}</h2>
     </header>
     <section class="post_text">{{ content }}</section>
+    <section class="social_links">
+      <a href="http://news.ycombinator.com/submitlink?u=http://micubiculo.com{{ page.url }}&t={{ page.title }}"><img src="/images/yc500.gif" alt="Submit to Hacker News"></a>
+      <a href="http://www.reddit.com/submit?url=http://micubiculo.com{{ page.url }}&title={{ page.title }}"><img src="http://www.reddit.com/static/spreddit1.gif" alt="Submit to Reddit"></a>
+
+
+      <div class="g-plusone" data-size="small" style="height:20px; vertical-align: middle !important;"></div>
+    </section>
     <section>{% include disqus.html %}</section>
 </article>
+<script type="text/javascript">
+  window.___gcfg = {lang: 'en-GB'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
