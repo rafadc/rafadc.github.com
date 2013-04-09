@@ -1,15 +1,17 @@
 # Ideas for posts
 
 - Talk about MU closing
-- Post about the BDD talk
 - DDD
+- Declarative vs Imperative. Code and tests
 - Beautiful code
 
 # TODO
 
-- Add dates to post page
-- On hover main page post a description should appear
 - Make text font bigger
+- Add dates to post page
+- Avoid showing attribution if no attribution
+- Find a logo
+- On hover main page post a description should appear
 - Favicon
 - Style Paging
 - Main page paging
