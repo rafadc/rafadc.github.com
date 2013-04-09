@@ -1,5 +1,6 @@
 # Ideas for posts
 
+- Pair with me
 - Talk about MU closing
 - DDD
 - Declarative vs Imperative. Code and tests
@@ -8,6 +9,7 @@
 # TODO
 
 - Make text font bigger
+- Add a pair with me section
 - Add dates to post page
 - Avoid showing attribution if no attribution
 - Find a logo
