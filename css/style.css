@@ -5,6 +5,7 @@ http://www.google.com/webfonts#UsePlace:use/Collection:Open+Sans|Open+Sans+Conde
 
 body, p {
   font-family: 'Open Sans', sans-serif;
+  line-height: 1.6em;
 }
 
 footer {
