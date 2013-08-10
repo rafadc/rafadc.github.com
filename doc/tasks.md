@@ -6,14 +6,16 @@
 - Declarative vs Imperative. Code and tests
 - Beautiful code
 
+# Videos?
+
+- Tap in ruby
+
 # TODO
 
 - Make text font bigger
-- Add a pair with me section
 - Add dates to post page
 - Avoid showing attribution if no attribution
 - Find a logo
-- On hover main page post a description should appear
 - Favicon
 - Style Paging
 - Main page paging
