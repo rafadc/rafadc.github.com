@@ -1,6 +1,5 @@
 # Ideas for posts
 
-- Talk about MU closing
 - DDD
 - Declarative vs Imperative. Code and tests
 - Beautiful code
