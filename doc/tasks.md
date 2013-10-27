@@ -7,19 +7,15 @@
 - TDD vs CDD
 - Architectures
 
-# Videos?
-
-- Tap in ruby
-
 # TODO
 
+- Main page pagination
+- Infer the name of the cover image
 - Update to bootstrap 3
 - Make text font bigger
 - Add dates to post page
 - Find a logo
 - Favicon
 - Style Paging
-- Main page paging
 - Tweet when posting
 - Improve style of images in posts
-
