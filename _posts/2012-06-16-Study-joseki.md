@@ -6,7 +6,7 @@ cover_attribution: http://www.flickr.com/photos/liopic/164812391/
 ---
 
 There is something I like a lot about [Go](http://playgo.to/iwtg/en/)
-and is that all the things I leart about the game can be applied to everyday
+and is that all the things I learnt about the game can be applied to everyday
 things in this life.
 
 The Joseki in go is a sequence of moves at the corner that are supposed to be
@@ -26,6 +26,6 @@ useful if the outcome is better that without using it. After seeing this written
 it looks maybe stupid but there are a lot of times that we try to organize, patternize,
 and write are code in an unnatural way just because is the "correct solution". 
 
-There are no correct solutions in software. We ofter lose focus with that and forget
+There are no correct solutions in software. We often lose focus with that and forget
 to get to the solution that just looks better no matter how academically correct is.
 
