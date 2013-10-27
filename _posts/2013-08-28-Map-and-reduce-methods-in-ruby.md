@@ -19,7 +19,7 @@ __.map / .collect__
 
 Map takes a function and returns the array that has in each position
 the result of applying that function to the corresponding element of the
-original array. 
+original array.
 
 ![Graphical explanation of map](/images/2013-08-28/map.png)
 
@@ -34,8 +34,9 @@ people_array.map { |person| person.name }
 __.reduce / .inject__
 
 Reduce is similar to map but instead of receiving a function that takes
-only one parameter it receives a funcion that receives an accumulator and
-the attibute. Instead of returning an array it just returns the accumulator
+only one parameter it receives a function that receives an accumulator and
+the value. Instead of returning an array it just returns the accumulator.
+We can say that this method reduces the array to a single value.
 
 ![Graphical explanation of reduce](/images/2013-08-28/reduce.png)
 
