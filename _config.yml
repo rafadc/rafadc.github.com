@@ -1,4 +1,3 @@
 permalink: /:year/:month/:day/:title
 url: http://www.micubiculo.com
 paginate: 10
-

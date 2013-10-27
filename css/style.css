@@ -6,6 +6,7 @@ http://www.google.com/webfonts#UsePlace:use/Collection:Open+Sans|Open+Sans+Conde
 body, p {
   font-family: 'Open Sans', sans-serif;
   line-height: 1.6em;
+  font-size: 16px;
 }
 
 footer {
@@ -62,7 +63,7 @@ h1 {
 
 h2 {
   line-height: 35px;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 h2 > a {
