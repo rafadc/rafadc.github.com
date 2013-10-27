@@ -2,6 +2,7 @@
 layout: post
 title: Differences between symbols and strings in Ruby
 cover: symbol.jpg
+cover_attribution: http://www.flickr.com/photos/gem66/17500025/
 ---
 
 You can think of a symbol as an immutable string. Since it can't

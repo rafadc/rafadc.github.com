@@ -16,7 +16,6 @@
 - Update to bootstrap 3
 - Make text font bigger
 - Add dates to post page
-- Avoid showing attribution if no attribution
 - Find a logo
 - Favicon
 - Style Paging
