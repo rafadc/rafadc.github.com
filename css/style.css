@@ -34,6 +34,7 @@ footer {
 .post {
   border-bottom: 5px solid red;
   padding: 10px;
+  text-align: justify;
 }
 
 .posts .col1 { 
@@ -94,6 +95,12 @@ h2 > a {
 .float-right {
   float: right;
   margin: 5px;
+}
+
+.centered {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .rotated {
