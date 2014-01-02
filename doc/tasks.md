@@ -6,6 +6,7 @@
 - Pair with me
 - TDD vs CDD
 - Architectures
+- Books for 2013: Implementing DDD and Don't go back to school
 
 # TODO
 
