@@ -18,4 +18,5 @@
 - Favicon
 - Style Paging
 - Tweet when posting
-- Improve style of images in posts
+- Improve style of images in posts (an idea could be to put the image and a quote in two columns)
+- Jekyll sublime plugin
