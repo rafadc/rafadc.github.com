@@ -126,3 +126,7 @@ h2 > a {
   -webkit-box-shadow: 3px 3px 2px rgb(100, 100, 100);
   box-shadow: 3px 3px 2px rgb(100, 100, 100);
 }
+
+.line-numbers {
+  margin-right: 8px;
+}
