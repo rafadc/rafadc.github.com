@@ -2,4 +2,4 @@ permalink: /:year/:month/:day/:title
 url: http://www.micubiculo.com
 paginate: 10
 highlight: pygments
-markdown: kramdown
+markdown: redcarpet
