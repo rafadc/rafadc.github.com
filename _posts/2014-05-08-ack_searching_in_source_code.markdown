@@ -4,7 +4,6 @@ title: "Ack, searching in source code"
 date: "2014-05-09 16:03:08 +0200"
 cover: ack.png
 ---
-
 Ack is a command line tool specialized in searching into source code. I've giving it
 a look this days since I'm switching to emacs and I need to polish some of the tools
 I'm using. Since I'm pretty happy with this, I wanted to share a small post to show
